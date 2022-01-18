@@ -23,7 +23,7 @@ class Launcher{
 	{
 		// this.bodyA=null;
 		// this.launcher=null;
-		// this.launcher.bodyA=null;
+		 this.launcher.bodyA=null;
 		// this.launcher.bodyA=0;
 	}
 
